@@ -1,6 +1,4 @@
-```markdown
 # Modelos NLP: ELMo, BERT, GPT y ChatGPT
-
 Este repositorio contiene un Jupyter Notebook que explora y compara diferentes modelos de Procesamiento de Lenguaje Natural (NLP), incluyendo ELMo, BERT, GPT y ChatGPT. El notebook está diseñado para proporcionar una comprensión profunda de estos modelos, su arquitectura, y cómo se pueden utilizar en aplicaciones prácticas.
 
 ## Contenido del Notebook
